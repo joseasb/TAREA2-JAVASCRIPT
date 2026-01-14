@@ -1,0 +1,21 @@
+.section {
+    gap: 12px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.caja-contador{
+    background: wheat;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 12px;
+    border: 2px solid black;
+    
+}
+
+#mensaje{
+    color: red;
+    margin-top: 10px;
+}
+    
